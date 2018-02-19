@@ -3,8 +3,8 @@ package CinemaClasses;
 public class Booking {
 	
 	
-	public int bookingNum=1; 
-	public int numOfTickets; 
+	public int bookingNum = 1; 
+	public int numOfTickets = 0; 
 	public int screeningNum;
 	public double cost;
 	
